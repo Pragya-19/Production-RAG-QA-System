@@ -1,0 +1,1 @@
+Regression testing should verify that model updates do not degrade retrieval quality. 

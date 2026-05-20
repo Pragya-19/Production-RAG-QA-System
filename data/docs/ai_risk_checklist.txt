@@ -1,0 +1,1 @@
+QA teams should evaluate hallucination, latency, grounding, and citation correctness. 
